@@ -6,6 +6,7 @@ import random
 # from click import style
 from nltk.corpus import stopwords
 import nltk
+nltk.download('punkt_tab')
 # from sklearn.metrics import accuracy_score
 
 # nltk.download('punkt_tab')
