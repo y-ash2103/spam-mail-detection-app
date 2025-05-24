@@ -3,9 +3,10 @@ import streamlit as st
 import pickle as pk
 import string
 import random
+import nltk
+
 nltk.download('punkt_tab')
 from nltk.corpus import stopwords
-import nltk
 from nltk.stem.porter import PorterStemmer
 
 nltk.download('punkt')
