@@ -16,7 +16,7 @@ nltk.download('stopwords')
 bg_image = f"""
  <style>
  .st-emotion-cache-13k62yr {{
- background-image: url("https://image-optimizer.cyberriskalliance.com/unsafe/1920x0/https://files.cyberriskalliance.com/wp-content/uploads/2023/08/email-security-1.jpg");
+ background-image: url("https://i.pinimg.com/736x/ae/e4/3f/aee43f66b26e905507a7094e45f2e0f5.jpg");
  background-size: cover;
  }}
 
