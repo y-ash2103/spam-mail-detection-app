@@ -16,7 +16,7 @@ nltk.download('stopwords')
 bg_image = f"""
  <style>
  .st-emotion-cache-13k62yr {{
- background-image: url("https://i.pinimg.com/736x/ae/e4/3f/aee43f66b26e905507a7094e45f2e0f5.jpg");
+ background-image: url("https://as2.ftcdn.net/v2/jpg/05/68/85/63/1000_F_568856376_uydwlduYMidLszEAJLvH8yHX3kSRjC9I.jpg");
  background-size: cover;
  }}
 
