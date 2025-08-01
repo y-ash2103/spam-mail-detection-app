@@ -89,7 +89,7 @@ if st.button("Check"):
 st.markdown("""
 <div class="footer" >
     <p>Contact us:- <a href="https://www.linkedin.com/in/yashveer-bawne01/" style="color: white;">Yashveer</a></p>
-    <p>Developed by:- Yashveer Bawne </p>
+    # <p>Developed by:- Yashveer Bawne </p>
 </div>
 """, unsafe_allow_html=True)
 
