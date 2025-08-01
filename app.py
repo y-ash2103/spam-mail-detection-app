@@ -88,8 +88,8 @@ if st.button("Check"):
 
 st.markdown("""
 <div class="footer" >
-    <p>Contact us:- <a href="bawneyashveer@gmail.com" style="color: white;">bawneyashveer@gmail.com</a></p>
-    <p>Developed by:- Piyush & Yashveer </p>
+    <p>Contact us:- <a href="https://www.linkedin.com/in/yashveer-bawne01/" style="color: white;">Yashveer</a></p>
+    <p>Developed by:- Yashveer Bawne </p>
 </div>
 """, unsafe_allow_html=True)
 
